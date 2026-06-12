@@ -94,7 +94,7 @@ bp-analysis-framework/
 ## 🚀 核心特性
 
 ### 1. 流程事件管理
-- 批��导入事件日志（CSV、JSON、XLS）
+- 批量导入事件日志（CSV、JSON、XLS）
 - 事件去重与验证
 - 时间序列索引优化
 
@@ -122,12 +122,6 @@ bp-analysis-framework/
 - [API 参考](docs/API_REFERENCE.md)
 - [教程](docs/TUTORIALS.md)
 - [故障排除](docs/TROUBLESHOOTING.md)
-
-## 📞 支持
-
-- 📧 Email: support@bp-analysis.dev
-- 💬 Issues: GitHub Issues
-- 📚 Wiki: 项目 Wiki
 
 ---
 
